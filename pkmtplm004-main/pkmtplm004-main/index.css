@@ -1,0 +1,23 @@
+body {
+    padding-top: 70px; /* Sesuaikan tinggi navbar */
+    background-color: #88cdcf !important; /* Abu-abu gelap mirip dark mode ChatGPT */
+    color: #ECECF1; /* Teks putih lembut */
+  }
+  
+
+
+  .navbar {
+    background-color: #50a9ac; /* Navbar sedikit lebih gelap */
+    border-bottom: 1px solid #50a9ac; /* Garis bawah halus */
+  }
+  
+  .nav-link {
+    color: #ECECF1 !important; /* Warna teks navbar */
+  }
+  
+  .nav-link:hover {
+    color: #adc0bb !important; /* Warna hijau lembut saat hover */
+  }
+  
+
+  
